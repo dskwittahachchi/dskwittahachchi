@@ -56,5 +56,5 @@ Welcome to my GitHub! I am a motivated 3rd-year Information Technology undergrad
 
 * **Email:** dskwittahachchi@gmail.com
 * **Phone:** +9476 901 6773
-* **LinkedIn:** linkedin.com/in/shashilwittahachchi
+* **LinkedIn:** https://www.linkedin.com/in/shashilwittahachchi
 * **Portfolio:** https://shashil-portfolio.vercel.app
